@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="onespace">10dp</dimen>
+    <dimen name="twospaces">20dp</dimen>
+    <dimen name="threespaces">30dp</dimen>
+    <dimen name="fourspaces">5dp</dimen>
+</resources>

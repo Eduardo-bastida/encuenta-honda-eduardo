@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EncuestaHonda</string>
+    <string name="m_action_about">Acerca de</string>
+    <string name="m_action_setting">Configuraciones</string>
+    <string name="m_action_exit">Salir</string>
+    <string name="input_user">Usurio</string>
+    <string name="input_password">Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+
+    <string name="text_titulo">Tu opinión nos importa</string>
+    <string name="text_medio">Contesta las Siguientes Preguntas sobre el servicio recibido.</string>
+    <string name="btn_iniciar">Iniciar Encuesta</string>
+    <string name="btn_enviar">Enviar</string>
+
+    <string name="pregunta_uno">1. ¿cómo considera que fue el trato recibido?</string>
+    <string name="pregunta_dos">2. ¿Nos recomendaría con un conocido?</string>
+    <string name="pregunta_tres">3. ¿Deseas agregar comentarios adicionales?</string>
+
+    <string name="text_thanks">¡Gracias!</string>
+    <string name="text_opinion">Tomaremos en cuenta tu opinión.</string>
+    <string name="btn_close">Cerrar</string>
+
+    <string name="text_empresa">Empresa:HONDA AVANTE</string>
+    <string name="text_desarrollador">Desarrollador:Gregorio Eduardo Ibarra Bastida</string>
+    <string name="text_version">Versión:1.0</string>
+    <string name="text_email">Email:gregorio@hondavap.com.mx</string>
+    <string name="text_telefono">Teléfono:311.285.4653</string>
+    <string name="text_gracie">¡Gracias por usar nuestra APP!</string>
+</resources>

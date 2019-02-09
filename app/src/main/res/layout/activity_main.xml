@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+  <LinearLayout
+      android:gravity="center"
+      android:padding="@dimen/threespaces"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent" android:orientation="vertical"
+      android:background="@drawable/fondo"
+      >
+
+
+      <ImageView
+          android:layout_width="60pt"
+          android:layout_height="137dp"
+          android:background="@drawable/imahonda"
+          android:contentDescription="photo" />
+
+
+      <EditText
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:background="@color/white"
+          android:hint="@string/input_user"
+          android:inputType="textPersonName"
+          android:layout_marginBottom="@dimen/onespace"
+          />
+
+      <EditText
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:hint="@string/input_password"
+          android:background="@color/white"
+          android:inputType="textPassword"
+          android:layout_marginBottom="@dimen/onespace"/>
+      <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/btn_login"
+          android:background="@color/buttonsColor"
+          android:textColor="@color/white"
+          android:id="@+id/btn_login"/>
+
+  </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
